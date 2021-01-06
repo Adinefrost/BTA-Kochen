@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#header {
+    height: 64px;
+}
+
+#logo {
+    height: 64px;
+}
+
+#menu-button {
+    background-color: transparent;
+    border: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+}

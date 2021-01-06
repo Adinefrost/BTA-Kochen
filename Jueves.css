@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(5, 1, 5);
+    color: rosybrown;
+    }
+h1 { color: rgb(243, 229, 34);}
+p { color: rgb(210, 158, 235);
+width: 500px; background-color: snow;}
+
+/* ID in HTML wird zu # IN CSS */
+
+#blau {background-color: seagreen;}
+
+/* Eine Klasse in HTML wird zu einem . punkt in CSS */
+
+.rand { 
+    border: 5px rgb(0, 255, 255) solid;}
+
